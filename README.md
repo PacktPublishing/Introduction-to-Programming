@@ -1,6 +1,6 @@
 # Introduction to Programming
 
-<a href="https://www.packtpub.com/application-development/introduction-programming?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788839129"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09606_MockupCoverNew.png" alt="Introduction to Programming" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/introduction-programming?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788839129"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788839129%20-%20Copy.png" alt="Introduction to Programming" height="256px" align="right"></a>
 
 This is the code repository for [Introduction to Programming](https://www.packtpub.com/application-development/introduction-programming?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788839129), published by Packt.
 
